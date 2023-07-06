@@ -1,4 +1,3 @@
-# ORM (Object-Relational Mapping) is a technique used to map data between object-oriented programming languages and relational databases. It allows developers to work with relational databases using object-oriented paradigms, eliminating the need to write complex SQL queries manually.
 
 Spring MVC is a popular framework for building web applications in Java. It follows the Model-View-Controller (MVC) architectural pattern, separating the application logic into three main components: the model (data and business logic), the view (user interface), and the controller (handles user requests and manages the flow).
 
